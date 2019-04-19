@@ -1,2 +1,2 @@
-# Algorithm_python
-Programmers coding_test
+# Python_Algorithm
+Programmers & Baekjoon coding test problems
